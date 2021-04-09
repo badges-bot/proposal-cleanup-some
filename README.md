@@ -1,5 +1,7 @@
 # The `FinalizationRegistry.prototype.cleanupSome` Method
 
+![Stage 2](https://badges.aleen42.com/src/tc39_3.svg)
+
 Champion group: Daniel Ehrenberg, Yulia Startsev
 
 Stage 2
